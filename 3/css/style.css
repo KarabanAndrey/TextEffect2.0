@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+}
+body {
+  background: #37393B;
+  color: #fff;
+   font-family: 'Yanone Kaffeesatz', sans-serif;
+  letter-spacing: 5px;
+}
+
+.wrapper {
+  position: absolute;
+  top: 50%;
+  width: 90%;
+  left: 5%;
+  font-size: 30px;
+  height: 175px;
+}
+
+.wave {
+  color: white;
+}
